@@ -18,8 +18,7 @@ For your own maps, select a council profile and click **Refresh files**. Profile
 
 ## What is included
 
-New local overlays: Lower Thames Crossing project area, nine major park points
-and five selected tourist/heritage points. [Sources and limitations](docs/LOCAL_OVERLAYS.md).
+New local overlays: demo maps for practice. Verify all maps before use.
 Use **Refresh files**, then add them from **Layers**.
 
 - Council profiles separated from a reusable ONS boundary-source catalogue.
