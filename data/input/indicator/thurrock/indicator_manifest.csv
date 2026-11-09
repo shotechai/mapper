@@ -1,0 +1,5 @@
+file,rows,join_key
+thurrock_wards_population_2021.csv,20,area_code
+thurrock_lsoa_population_2021.csv,100,area_code
+thurrock_wards_age_0_15_percentage_2021.csv,20,area_code
+thurrock_lsoa_age_0_15_percentage_2021.csv,100,area_code

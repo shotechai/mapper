@@ -1,0 +1,4 @@
+file,layer,features,geometry,snapshot_date,source_note
+thurrock_lower_thames_crossing_project_area.gpkg,thurrock_lower_thames_crossing_project_area,1,MULTIPOLYGON,2026-10-24,See docs/LOCAL_OVERLAYS.md and feature source_url / location_method / licence fields
+thurrock_major_parks_points.gpkg,thurrock_major_parks_points,9,POINT,2026-10-24,See docs/LOCAL_OVERLAYS.md and feature source_url / location_method / licence fields
+thurrock_tourist_attractions_points.gpkg,thurrock_tourist_attractions_points,5,POINT,2026-10-24,See docs/LOCAL_OVERLAYS.md and feature source_url / location_method / licence fields

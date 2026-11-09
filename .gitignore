@@ -1,0 +1,12 @@
+# Keep generated outputs and temporary files out of GitHub.
+outputs/*
+!outputs/.gitkeep
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+*.gpkg-wal
+*.gpkg-shm
+*.zip
